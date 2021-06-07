@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365669720771",
+    "project_id": "opscmaps2",
+    "storage_bucket": "opscmaps2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365669720771:android:ddbeb6fe451f5b58773876",
+        "android_client_info": {
+          "package_name": "com.adriann.opscmaps2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365669720771-vk55cnme3gk7h59purqji4k0t3antqko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcJ7frVBZpgarz5Fet88xtMpad_7sv_Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365669720771-vk55cnme3gk7h59purqji4k0t3antqko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

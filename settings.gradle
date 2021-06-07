@@ -1,0 +1,2 @@
+rootProject.name = "opscmaps2"
+include ':app'
